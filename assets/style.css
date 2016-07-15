@@ -1,0 +1,18 @@
+.calculator {
+  text-align: center;
+}
+
+.button {
+  width: 160px;
+  height: 80px;
+  margin: 5px;
+  font-size: 30px;
+}
+
+.textbox {
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 50px;
+}
